@@ -1,5 +1,4 @@
 gh-md-toc
-=========
 
 gh-md-toc — is for you if you **want to generate TOC** for README.md or
 GitHub's wiki page and **don't want to install any additional software**.
